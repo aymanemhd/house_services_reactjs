@@ -1,4 +1,7 @@
-function navigation() {
+
+import Login from "./Login"
+function Navigation() {
+  
     return (
         <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -51,7 +54,7 @@ function navigation() {
               </a>
             </li>
             <li>
-            <button type="button" className="btn btn-outline-info" id="login">Log In</button>
+            <Login/>
             </li>
             <li>
             <button type="button" className="btn btn-outline-info" id="singup">Sing Up</button>
@@ -63,4 +66,4 @@ function navigation() {
     )
 }
 
-export default navigation
+export default Navigation
