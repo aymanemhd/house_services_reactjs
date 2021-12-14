@@ -5,7 +5,7 @@ function gallery(props) {
         <div id='portfolio' className='text-center'>
         <div className='container'>
           <div className='section-title'>
-            <h2>our Services</h2>
+            <h2>Notre Services</h2>
           </div>
           <div className='row'>
             <div className='portfolio-items'>

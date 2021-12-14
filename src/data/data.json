@@ -1,22 +1,22 @@
 {
     "Header": {
-      "title": "Hello everyone",
+      "title": "Bienvenue",
       "paragraph": "Find the best talent"
     },
     "About": {
-      "paragraph": "If you’re looking to book the best  service to help you out around the house, look in our platform. We know you’ve got a never-ending list of odd jobs that need doing around your home. However, with the demands of work and family, it’s so hard to find the time to tackle them all. ",
+      "paragraph": "Si vous cherchez à réserver le meilleur service pour vous aider à la maison, consultez notre plateforme. Nous savons que vous avez une liste interminable de petits travaux à faire dans votre maison. Cependant, avec les exigences du travail et de la famille, il est si difficile de trouver le temps de les affronter tous.  ",
       "Why": [
-        "acceuil rapide ",
-        "prix résonable",
-        "nous avons une bonne réputation",
-        "nos clients sont toujours"
+        "Acceuil rapide ",
+        "Prix raisonnable",
+        "Une bonne réputation"
+        
    
       ],
       "Why2": [
-        "Aliquip ex ea commodo",
-        "Lorem ipsum dolor",
-        "Exercitation ullamco",
-        "Lorem ipsum dolor"
+        "Mettre en avant un nouveau  service",
+        "Gestion de l'inventaire",
+        "Clients toujours satisfait"
+        
       ]
     },
     "Gallery": [
@@ -86,61 +86,61 @@
     "Testimonials": [
       {
         "img": "img/testimonials/01.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "John Doe"
+        "text": "\"Je suis sincèrement heureux pour votre travail et vos efforts .\"",
+        "name": "ALAMI Karim"
       },
       {
         "img": "img/testimonials/02.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "Johnathan Doe"
+        "text": "\"Je vous remercie pour cette professionnalisme.\"",
+        "name": "MOKHTARI Youssra"
       },
       {
         "img": "img/testimonials/03.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "John Doe"
+        "text": "\"je suis trés satisfait.\"",
+        "name": "BELLAOUCHI Mohammed"
       },
       {
         "img": "img/testimonials/04.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "Johnathan Doe"
+        "text": "\" Je vous remercie pour ce très bon service que vous m'avez offrire.\"",
+        "name": "Docteur RADI"
       },
       {
         "img": "img/testimonials/05.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "John Doe"
+        "text": "\"Je suis ravis de vous connaitre .\"",
+        "name": "BAKHTI Karima"
       },
       {
         "img": "img/testimonials/06.jpg",
-        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-        "name": "Johnathan Doe"
+        "text": "\"Vous etes tout particulièrement  professionnalisme .\"",
+        "name": "Madame Wissal"
       }
     ],
     "Team": [
       {
         "img": "img/team/01.jpg",
-        "name": "John Doe",
-        "job": "Director"
+        "name": "BOUDDOU Chaymae",
+        "job": "Directeur générale"
       },
       {
         "img": "img/team/02.jpg",
-        "name": "Mike Doe",
-        "job": "Senior Designer"
+        "name": "Echater Souhaila",
+        "job": "Gérant"
       },
       {
         "img": "img/team/03.jpg",
-        "name": "Jane Doe",
-        "job": "Senior Designer"
+        "name": "ELMEHDI Aymane",
+        "job": "Chef département "
       },
       {
         "img": "img/team/04.jpg",
-        "name": "Karen Doe",
-        "job": "Project Manager"
+        "name": "NASRI Nawal",
+        "job": "Comptable"
       }
     ],
     "Contact": {
-      "address": "4321 California St, San Francisco, CA 12345 ",
+      "address": "Hay Qods NR 02 OUJDA ",
       "phone": "+1 123 456 1234",
-      "email": "info@company.com",
+      "email": "ServiceHouse@gmail.com",
       "facebook": "fb.com",
       "twitter": "twitter.com",
       "youtube": "youtube.com"
@@ -148,23 +148,23 @@
     "Features": [
       {
         "icon": "fa fa-comments-o",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Reception",
+        "text": "N'importe où, n'importe quand , et n'importe quel service. Nous serons toujours a votre disponibilité ."
       },
       {
         "icon": "fa fa-bullhorn",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Service",
+        "text": " nous avons mis en place une assistance  disponible 7J/7. Nous tenons à ce que vos questions trouvent réponses dans les plus brefs délais. Nos conseillers spécialistes, experts de leur  professionnels aguerris sont là pour vous accompagner de A à Z. Seulement chez House Service"
       },
       {
         "icon": "fa fa-group",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Offre",
+        "text": "A chaque fois que vous profitez de nos service vous aurez une facilité de paiement avec une reduction de 5%."
       },
       {
         "icon": "fa fa-magic",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Localisation",
+        "text": "Notre entreprise se situe a Oujda, et dans chaque région du Maroc on a des petits succursale."
       }
     ]
   }

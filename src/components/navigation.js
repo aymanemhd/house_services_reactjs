@@ -1,4 +1,8 @@
+
+import Login from "./Login"
 function navigation() {
+  
+
     return (
         <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -27,31 +31,32 @@ function navigation() {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Features
+                CARACTÉRISTIQUES
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
+              À PROPOS
               </a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Services
+                SERVICES
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+              TÉMOIGNAGE
               </a>
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+                CONTACTS
               </a>
             </li>
             <li>
-            <button type="button" className="btn btn-outline-info" id="login">Log In</button>
+              
+            <Login/>
             </li>
             <li>
             <button type="button" className="btn btn-outline-info" id="singup">Sing Up</button>
