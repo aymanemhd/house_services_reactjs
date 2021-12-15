@@ -1,13 +1,8 @@
+import Login from "./Login";
 
-import Login from "./Login"
-<<<<<<< HEAD
-function navigation() {
-  
-
-=======
 function Navigation() {
   
->>>>>>> 5d8a67356eaf75ebe9123232d1253f2c45d5a914
+
     return (
         <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -60,10 +55,6 @@ function Navigation() {
               </a>
             </li>
             <li>
-<<<<<<< HEAD
-              
-=======
->>>>>>> 5d8a67356eaf75ebe9123232d1253f2c45d5a914
             <Login/>
             </li>
             <li>

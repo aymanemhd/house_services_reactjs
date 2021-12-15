@@ -14,6 +14,7 @@
 
   #portfolio {
     width: 110%;
+    
   }
 }
 #login{
@@ -26,4 +27,7 @@
 }
 .btn{
   margin: 10px;
+}
+#glr{
+  margin: 20px;
 }
