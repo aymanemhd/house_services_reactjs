@@ -12,7 +12,7 @@ function Login() {
   return (
     <>
     <Button className="btn btn-outline-info" id="login" onClick={handleShow}>
-        Log In
+        LogIn
       </Button>
     <Modal show={show} onHide={handleClose} backdrop="static" keyboard={false}>
       <Modal.Header closeButton>
