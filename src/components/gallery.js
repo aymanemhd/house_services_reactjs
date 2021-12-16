@@ -11,7 +11,7 @@ function gallery(props) {
             <div className='portfolio-items'>
               {props.data
                 ? props.data.map((d, i) => (
-                  <div key={`${d.title}-${i}`} className='col-sm-3' id="glr">
+                  <div key={`${d.title}-${i}`} className='col-sm-4' id="glr">
                     <Image title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} />
                   </div>
                 ))
