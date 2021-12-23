@@ -1,5 +1,7 @@
 import Login from "./Login";
 
+
+
 function Navigation() {
   
 
@@ -19,7 +21,7 @@ function Navigation() {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className='navbar-brand page-scroll' path='/'>
             House Services
           </a>{' '}
         </div>
@@ -30,27 +32,27 @@ function Navigation() {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
+              <a path='/CARACTÉRISTIQUES' className='page-scroll'>
                 CARACTÉRISTIQUES
               </a>
             </li>
             <li>
-              <a href='#about' className='page-scroll'>
+              <a href='/apropos' className='page-scroll'>
               À PROPOS
               </a>
             </li>
             <li>
-              <a href='#services' className='page-scroll'>
+              <a href='/services' className='page-scroll'>
                 SERVICES
               </a>
             </li>
             <li>
-              <a href='#testimonials' className='page-scroll'>
+              <a href='/TÉMOIGNAGE' className='page-scroll'>
               TÉMOIGNAGE
               </a>
             </li>
             <li>
-              <a href='#contact' className='page-scroll'>
+              <a href='/contact' className='page-scroll'>
                 CONTACTS
               </a>
             </li>
@@ -64,6 +66,9 @@ function Navigation() {
         </div>
       </div>
     </nav>
+
+
+
     )
 }
 

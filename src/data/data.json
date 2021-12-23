@@ -23,32 +23,38 @@
       {
         "title": "Electrician",
         "largeImage": "img/portfolio/electrician.jpg",
-        "smallImage": "img/portfolio/electrician.jpg"
+        "smallImage": "img/portfolio/electrician.jpg",
+        "lnk": "Electrician"
       },
       {
         "title": "paiture",
         "largeImage": "img/portfolio/paiture.jpg",
-        "smallImage": "img/portfolio/paiture.jpg"
+        "smallImage": "img/portfolio/paiture.jpg",
+        "lnk":"/paiture"
       },
       {
         "title": "jardinier",
         "largeImage": "img/portfolio/jardinier.jpg",
-        "smallImage": "img/portfolio/jardinier.jpg"
+        "smallImage": "img/portfolio/jardinier.jpg",
+        "lnk":"/jardinier"
       },
       {
         "title": "carpenter",
         "largeImage": "img/portfolio/carpenter.jpg",
-        "smallImage": "img/portfolio/carpenter.jpg"
+        "smallImage": "img/portfolio/carpenter.jpg",
+        "lnk":"/carpenter"
       },
       {
         "title": "plumbing",
         "largeImage": "img/portfolio/plumbing.jpg",
-        "smallImage": "img/portfolio/plumbing.jpg"
+        "smallImage": "img/portfolio/plumbing.jpg",
+        "lnk": "plumbing"
       },
       {
         "title": "installation parabole",
         "largeImage": "img/portfolio/parabole.jpg",
-        "smallImage": "img/portfolio/parabole.jpg"
+        "smallImage": "img/portfolio/parabole.jpg",
+        "lnk": "parabole"
       }
     ],
     "Services": [
@@ -165,6 +171,141 @@
         "icon": "fa fa-magic",
         "title": "Localisation",
         "text": "Notre entreprise se situe a Oujda, et dans chaque région du Maroc on a des petits succursale."
+      }
+    ],
+    "profile":
+    [
+      {
+        "name":"name1",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name2",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name3",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name4",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name5",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name6",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name7",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name8",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name9",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name10",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name11",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name12",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name13",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name14",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name15",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name16",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name17",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name18",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name19",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name20",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name21",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name22",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },
+      {
+        "name":"name23",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
+      },{
+        "name":"name24",
+        "phone":"+212 623092399",
+        "prix":"150",
+        "services":"electrecien"
       }
     ]
   }

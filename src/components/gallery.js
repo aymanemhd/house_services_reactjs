@@ -1,3 +1,4 @@
+import Details from "./Details";
 import Image from "./image";
 
 function gallery(props) {

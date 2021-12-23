@@ -1,26 +1,20 @@
-import  Navigation  from "./components/Navigation";
-import  Header  from "./components/header";
-import  Features  from "./components/features";
-import  About  from "./components/about";
-import  Gallery  from "./components/gallery";
-import  Testimonials  from "./components/testimonials";
-import  Team  from "./components/Team";
-import  {Contact}  from "./components/contact";
-import JsonData from "./data/data.json";
+import Home from './components/Home'
 import "./App.css";
+import { BrowserRouter as Router , Switch , Route } from 'react-router-dom';
+import Details from './components/Details';
+import Details2 from './components/Details2';
 
 function App() {
   return (
-    <div>
-      <Navigation />
-      <Header data={JsonData.Header} />
-      <Features data={JsonData.Features} />
-      <About data={JsonData.About} />
-      <Gallery data={JsonData.Gallery}/>
-      <Testimonials data={JsonData.Testimonials} />
-      <Team data={JsonData.Team} />
-      <Contact data={JsonData.Contact} />
-    </div>
+    <Router>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/home" component={Home} />
+        <Route path="/service1" component={Details} />
+        <Route path="/service2" component={Details2} />
+      </Switch>
+    </Router>
+
   );
 }
 
