@@ -24,7 +24,7 @@
         "title": "Electrician",
         "largeImage": "img/portfolio/electrician.jpg",
         "smallImage": "img/portfolio/electrician.jpg",
-        "lnk": "Electrician"
+        "lnk": "/Electrician"
       },
       {
         "title": "paiture",
@@ -178,18 +178,21 @@
       {
         "name":"name1",
         "phone":"+212 623092399",
+        "email":"anass@gmail.com",
         "prix":"150",
-        "services":"electrecien"
+        "services":"Annonseur"
       },
       {
         "name":"name2",
         "phone":"+212 623092399",
+        "email":"anass@gmail.com",
         "prix":"150",
         "services":"electrecien"
       },
       {
         "name":"name3",
         "phone":"+212 623092399",
+        "email":"anass@gmail.com",
         "prix":"150",
         "services":"electrecien"
       },

@@ -42,22 +42,22 @@ function Navigation() {
               </a>
             </li>
             <li>
-              <a href='/services' className='page-scroll'>
+              <a href='/Listservices' className='page-scroll'>
                 SERVICES
               </a>
             </li>
             <li>
-              <a href='/TÉMOIGNAGE' className='page-scroll'>
+              <a href='/' className='page-scroll'>
               TÉMOIGNAGE
               </a>
             </li>
             <li>
-              <a href='/contact' className='page-scroll'>
-                CONTACTS
+              <a href='/Offres' className='page-scroll'>
+              Offres
               </a>
             </li>
             <li>
-            <Login/>
+            <button className="btn btn-outline-info " id="singup" class="btn btn-primary" type="submit"><a href="/Pagelogin">Log In</a></button>
             </li>
             <li>
             <button type="button" className="btn btn-outline-info" id="singup">Sing Up</button>
