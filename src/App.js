@@ -6,7 +6,13 @@ import Pagelogin from './components/Pagelogin';
 import Details2 from './components/Details2';
 import Listservices from './components/Listservices';
 import Offres from './components/Offres';
-import Annonseur from './components/Annonseur';
+
+import Electricien from './components/Electricien';
+import Painture from './components/Painture';
+import Jardinier from './components/Jardinier';
+import Carpenter from './components/Carpenter';
+import Plumbier from './components/Plumbier';
+import Parabole from './components/Parabole';
 
 function App() {
   return (
@@ -19,7 +25,13 @@ function App() {
         <Route path="/Listservices" component={Listservices} />
         <Route path="/Pagelogin" component={Pagelogin} />
         <Route path="/Offres" component={Offres} />
-        <Route path="/Annonseur" component={Annonseur} />
+        <Route path="/Electricien" component={Electricien} />
+        <Route path="/painture" component={Painture} />
+        <Route path="/Jardinier" component={Jardinier} />
+        <Route path="/Carpenter" component={Carpenter} />
+        <Route path="/Plumbier" component={Plumbier} />
+        <Route path="/Parabole" component={Parabole} />
+        
       </Switch>
     </Router>
 

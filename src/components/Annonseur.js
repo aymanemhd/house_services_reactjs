@@ -50,46 +50,24 @@ function Annonseur() {
                         
                         <tr>
                             <td>1</td>
-                            <td>anass</td>
-                            <td>anass@gmail.com</td>
+                            <td>aymane</td>
+                            <td>aymane@gmail.com</td>
                             <td>060606</td> 
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>anass2</td>
-                            <td>anass@gmail.com</td>
+                            <td>aymane</td>
+                            <td>aymane@gmail.com</td>
                             <td>060606</td> 
                         </tr>
                          
  
                         <tr>
                             <td>3</td>
-                            <td>anass3</td>
-                            <td>anass@gmail.com</td>
+                            <td>aymane</td>
+                            <td>aymane@gmail.com</td>
                             <td>060606</td> 
                         </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>anass4</td>
-                            <td>anass@gmail.com</td>
-                            <td>060606</td> 
-                        </tr>
-                        <tr>
-                            <td>5</td>
-                            <td>anass5</td>
-                            <td>anass@gmail.com</td>
-                            <td>060606</td> 
-                        </tr>
- 
- 
-                        <tr>
-                            <td>6</td>
-                            <td>anass6</td>
-                            <td>anass@gmail.com</td>
-                            <td>060606</td> 
-                        </tr>
- 
- 
                         
                     </tbody>
                 </table>

@@ -1,4 +1,4 @@
-import Details from "./Details";
+
 import Image from "./image";
 import { Link } from "react-router-dom";
 
@@ -14,7 +14,7 @@ function gallery(props) {
               {props.data
                 ? props.data.map((d, i) => (
                   <div key={`${d.title}-${i}`} className='col-sm-4' id="glr">
-                    <Link to={"Annonseur"}><Image  title={d.title} largeImage={d.largeImage} smallImage={d.smallImage}   /></Link>
+                    <Link to={d.lnk}><Image  title={d.title} largeImage={d.largeImage} smallImage={d.smallImage}   /></Link>
                     
                   </div>
                 ))

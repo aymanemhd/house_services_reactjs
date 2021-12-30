@@ -633,4 +633,13 @@ label {
     margin: 50px 0;
   }
 }
+table{
+  margin-top:140px;
+}
+
+.card {
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 4px 6px 13px 0px #3433334a;
+}
 

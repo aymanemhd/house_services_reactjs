@@ -1,7 +1,3 @@
-import Login from "./Login";
-
-
-
 function Navigation() {
   
 
@@ -32,27 +28,27 @@ function Navigation() {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a path='/CARACTÉRISTIQUES' className='page-scroll'>
+              <a href='#features' className='page-scroll'>
                 CARACTÉRISTIQUES
               </a>
             </li>
             <li>
-              <a href='/apropos' className='page-scroll'>
+              <a href='#about' className='page-scroll'>
               À PROPOS
               </a>
             </li>
             <li>
-              <a href='/Listservices' className='page-scroll'>
+              <a href='#gallery' className='page-scroll'>
                 SERVICES
               </a>
             </li>
             <li>
-              <a href='/' className='page-scroll'>
+              <a href='#Testimonials' className='page-scroll'>
               TÉMOIGNAGE
               </a>
             </li>
             <li>
-              <a href='/Offres' className='page-scroll'>
+              <a href='#Offres' className='page-scroll'>
               Offres
               </a>
             </li>

@@ -24,37 +24,37 @@
         "title": "Electrician",
         "largeImage": "img/portfolio/electrician.jpg",
         "smallImage": "img/portfolio/electrician.jpg",
-        "lnk": "/Electrician"
+        "lnk": "/Electricien"
       },
       {
-        "title": "paiture",
+        "title": "painture",
         "largeImage": "img/portfolio/paiture.jpg",
         "smallImage": "img/portfolio/paiture.jpg",
-        "lnk":"/paiture"
+        "lnk":"/painture"
       },
       {
-        "title": "jardinier",
+        "title": "Jardinier",
         "largeImage": "img/portfolio/jardinier.jpg",
         "smallImage": "img/portfolio/jardinier.jpg",
-        "lnk":"/jardinier"
+        "lnk":"/Jardinier"
       },
       {
-        "title": "carpenter",
+        "title": "Carpenter",
         "largeImage": "img/portfolio/carpenter.jpg",
         "smallImage": "img/portfolio/carpenter.jpg",
-        "lnk":"/carpenter"
+        "lnk":"/Carpenter"
       },
       {
-        "title": "plumbing",
+        "title": "Plumbing",
         "largeImage": "img/portfolio/plumbing.jpg",
         "smallImage": "img/portfolio/plumbing.jpg",
-        "lnk": "plumbing"
+        "lnk": "/Plumbier"
       },
       {
-        "title": "installation parabole",
+        "title": "Installation Parabole",
         "largeImage": "img/portfolio/parabole.jpg",
         "smallImage": "img/portfolio/parabole.jpg",
-        "lnk": "parabole"
+        "lnk": "/Parabole"
       }
     ],
     "Services": [
@@ -176,23 +176,24 @@
     "profile":
     [
       {
+        "profile":"../img/profile.png",
         "name":"name1",
         "phone":"+212 623092399",
-        "email":"anass@gmail.com",
+        "email":"aymane@gmail.com",
         "prix":"150",
         "services":"Annonseur"
       },
       {
         "name":"name2",
         "phone":"+212 623092399",
-        "email":"anass@gmail.com",
+        "email":"aymane@gmail.com",
         "prix":"150",
         "services":"electrecien"
       },
       {
         "name":"name3",
         "phone":"+212 623092399",
-        "email":"anass@gmail.com",
+        "email":"aymane@gmail.com",
         "prix":"150",
         "services":"electrecien"
       },
