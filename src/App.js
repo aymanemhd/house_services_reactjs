@@ -2,17 +2,10 @@ import Home from './components/Home'
 import "./App.css";
 import { BrowserRouter as Router , Switch , Route} from 'react-router-dom';
 import Details from './components/Details';
-import Pagelogin from './components/Pagelogin';
 import Details2 from './components/Details2';
-import Listservices from './components/Listservices';
+import Pagelogin from './components/Pagelogin';
+import singup from './components/singup';
 import Offres from './components/Offres';
-
-import Electricien from './components/Electricien';
-import Painture from './components/Painture';
-import Jardinier from './components/Jardinier';
-import Carpenter from './components/Carpenter';
-import Plumbier from './components/Plumbier';
-import Parabole from './components/Parabole';
 
 function App() {
   return (
@@ -20,17 +13,16 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/home" component={Home} />
-        <Route path="/service1" component={Details} />
-        <Route path="/service2" component={Details2} />
-        <Route path="/Listservices" component={Listservices} />
         <Route path="/Pagelogin" component={Pagelogin} />
+        <Route path="/singup" component={singup}/>
         <Route path="/Offres" component={Offres} />
-        <Route path="/Electricien" component={Electricien} />
-        <Route path="/painture" component={Painture} />
-        <Route path="/Jardinier" component={Jardinier} />
-        <Route path="/Carpenter" component={Carpenter} />
-        <Route path="/Plumbier" component={Plumbier} />
-        <Route path="/Parabole" component={Parabole} />
+        <Route path="/Electricien" component={Details} />
+        <Route path="/painture" component={Details} />
+        <Route path="/Jardinier" component={Details} />
+        <Route path="/Carpenter" component={Details} />
+        <Route path="/Plumbier" component={Details} />
+        <Route path="/Parabole" component={Details} />
+        <Route path="/test" component={Details2} />
         
       </Switch>
     </Router>

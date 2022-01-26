@@ -1,6 +1,6 @@
-function Navigation() {
-  
+import { Link } from "react-router-dom";
 
+function Navigation() {
     return (
         <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -17,9 +17,9 @@ function Navigation() {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' path='/'>
+          <Link className='navbar-brand page-scroll' path='/Home'>
             House Services
-          </a>{' '}
+          </Link>{' '}
         </div>
 
         <div
@@ -53,10 +53,10 @@ function Navigation() {
               </a>
             </li>
             <li>
-            <button className="btn btn-outline-info " id="singup" class="btn btn-primary" type="submit"><a href="/Pagelogin">Log In</a></button>
+            <Link className="btn btn-outline-info " id="singup" class="btn btn-primary" type="submit" to="/Pagelogin">Log In</Link>
             </li>
             <li>
-            <button type="button" className="btn btn-outline-info" id="singup">Sing Up</button>
+            <Link type="button" className="btn btn-outline-info" id="singup" to="/singup">Sing Up</Link>
             </li>
           </ul>
         </div>
